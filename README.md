@@ -12,4 +12,4 @@ time the system needs to evaluate a rule to generate a subsequent event, it buil
 quantum circuit dynamically and mesures it. After a brief discussion about the vocal
 synthesis methods that we have been experimenting with, the paper introduces our novel
 generative music method by means of a practical example. The paper shows some experiments
-and concludes with a discussion. Accompanying materials are available in an Appendix.
+and concludes with a discussion.
