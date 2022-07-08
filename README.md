@@ -16,7 +16,10 @@ and concludes with a discussion.
 
 ## To run the code on Jupyter notebook
 For running the code, you will need Python 3.8 or later.
-**Packages and dependncies:**
+
+This demonstration does not include vocal synthesis. The system reads a MIDI file to learn the rules, and generates a MIDI file with the new composition. There are many MIDI file players freely avaible. We normally use `MuseScore`, because it also shows musical notes:  https://musescore.org/en
+
+**Packages and dependencies:**
 
 * `qiskit`: https://qiskit.org/
 * `pytket`: https://cqcl.github.io/tket/pytket/api/
