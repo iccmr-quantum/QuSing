@@ -19,7 +19,7 @@ and concludes with a discussion.
 *`Audio_Examples_MP3`: Audio renderings in MP3 format of the examples in the paper.
 *`Audio_Examples_WAV`: Audio renderings in WAVE format of the example in the paper.
 
-## To run the code on Jupyter notebook
+## To run the code with Jupyter notebook
 For running the code, you will need Python 3.8 or later.
 
 This demonstration does not include vocal synthesis. The system reads a MIDI file to learn the rules, and generates a MIDI file with the new composition. There are many MIDI file players freely avaible. We like `MuseScore`, because it also shows musical notes:  https://musescore.org/en
