@@ -17,6 +17,6 @@ and concludes with a discussion.
 ## To run the code on Jupyter notebook
 **Dependncies:**
 
-**Note: It suggested to open your Jupyter notebook using the following line:
+**Note: It suggested to open your Jupyter notebook using the following line:**
 
 jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000
