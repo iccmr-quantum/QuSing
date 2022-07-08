@@ -15,7 +15,10 @@ generative music method by means of a practical example. The paper shows some ex
 and concludes with a discussion.
 
 ## To run the code on Jupyter notebook
-**Dependncies:**
+For running the code, you will need Python 3.8 or later.
+**Packages and dependncies:**
+
+* `Qiskit` (v0.3.7.1)
 
 **Note: It suggested to open your Jupyter notebook using the following line:**
 
