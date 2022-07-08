@@ -15,11 +15,11 @@ generative music method by means of a practical example. The paper shows some ex
 and concludes with a discussion.
 
 ## Contents:
-*`QuSing_Code`: contains the Jupyter Notebook code, examples of input and 2 Python programs. All these need to be in the same folder.
+* `QuSing_Code`: contains the Jupyter Notebook code, examples of input and 2 Python programs. All these need to be in the same folder.
 
-*`Audio_Examples_MP3`: Audio renderings in MP3 format of the examples in the paper.
+* `Audio_Examples_MP3`: Audio renderings in MP3 format of the examples in the paper.
 
-*`Audio_Examples_WAV`: Audio renderings in WAVE format of the example in the paper.
+* `Audio_Examples_WAV`: Audio renderings in WAVE format of the example in the paper.
 
 ## To run the code with Jupyter notebook
 For running the code, you will need Python 3.8 or later.
