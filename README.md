@@ -13,3 +13,10 @@ quantum circuit dynamically and mesures it. After a brief discussion about the v
 synthesis methods that we have been experimenting with, the paper introduces our novel
 generative music method by means of a practical example. The paper shows some experiments
 and concludes with a discussion.
+
+## To run the code on Jupyter notebook
+**Dependncies:**
+
+**Note: It suggested to open your Jupyter notebook using the following line:
+
+jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000
