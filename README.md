@@ -18,7 +18,13 @@ and concludes with a discussion.
 For running the code, you will need Python 3.8 or later.
 **Packages and dependncies:**
 
-* `Qiskit` (v0.3.7.1)
+* `Qiskit': https://qiskit.org/
+* 'pytket': https://cqcl.github.io/tket/pytket/api/
+* 'matplotlib': https://matplotlib.org/
+* 'numpy': https://numpy.org/
+* 'mapomatic': https://github.com/Qiskit-Partners/mapomatic
+* 'mthree': https://github.com/Qiskit-Partners/mthree
+* 'mido': https://mido.readthedocs.io/en/latest/
 
 **Note: It suggested to open your Jupyter notebook using the following line:**
 
