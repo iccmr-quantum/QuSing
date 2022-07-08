@@ -15,7 +15,7 @@ generative music method by means of a practical example. The paper shows some ex
 and concludes with a discussion.
 
 ## Contents:
-* `QuSing_Code`: contains the Jupyter Notebook code, examples of input and 2 Python programs. All these need to be in the same folder.
+* `QuSing_Code`: contains the Jupyter Notebook code, examples of input and 2 Python programs. All these need to be in the same folder. (`midi2code.py` and `code2midi.py` are just Python functions that are called in to translate MIDI data into the bespoke representation used by the system.)
 
 * `Audio_Examples_MP3`: Audio renderings in MP3 format of the examples in the paper.
 
