@@ -1,7 +1,7 @@
 # QuSing
 ## Teaching Qubits to Sing
 
-This is the repository for accompanying materials for the paper ***Teaching Qubits to Sing: Mission Impossible?***, by Eduardo Reck Miranda and Brian N. Siegelwax.
+This is the repository for accompanying materials for the paper ***Teaching Qubits to Sing: Mission Impossible?***, by Eduardo Reck Miranda and Brian N. Siegelwax. https://arxiv.org/abs/2207.08225
 
 **Abstract:** This paper introduces QuSing, a system that learns to sing new tunes by listening to examples.
 QuSing extracts sequencing rules from input music and uses these rules to generate
